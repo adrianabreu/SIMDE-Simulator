@@ -1,7 +1,6 @@
 # SIMDE
-[![Build Status](https://travis-ci.org/adrianabreu/SIMDE-Simulator.svg?branch=master)](https://travis-ci.org/adrianabreu/SIMDE-Simulator)
-[![Coverage Status](https://coveralls.io/repos/github/adrianabreu/SIMDE-Simulator/badge.svg?branch=master)](https://coveralls.io/github/adrianabreu/SIMDE-Simulator?branch=master)
 
+# This project has been migrated to another repository, in order to see the latest version, please go to [https://github.com/etsiiull/SIMDE](https://github.com/etsiiull/SIMDE)
 
 ![Live exec](/assets/exec.gif)
 
@@ -21,7 +20,7 @@ The project has been released under GPLv3 License.
 
 ## Live DEMO
 
-[Check the project live](http://adrianabreu.com/SIMDE-Simulator/)
+[Check the project live](https://etsiiull.github.io/SIMDE/)
 
 ## Docs
 
